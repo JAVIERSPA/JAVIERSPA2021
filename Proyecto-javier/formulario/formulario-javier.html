@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="Author" content="JavierSánchezPorro">
+        <meta name="Description" content="Este es mi formulario web donde tendrás que adjuntar todos tus datos personales.">
+        <meta name="Keywords" content="formulario web">
+        <title>Formulario Inscripción</title>
+        <script>
+            alert("¿Estás seguro? Si haces click en borrar, todos tus datos quedarán eliminados.")
+        </script>
+        <style>
+            .item1 { grid-area: header; }
+            .item2 { grid-area: menu; }
+            .item3 { grid-area: main; }
+            .item4 { grid-area: right; }
+            .item5 { grid-area: footer; }
+            
+            .grid-container {
+              display: grid;
+              grid-template-areas:
+                'header header header header header header'
+                'menu main main main right right'
+                'menu footer footer footer footer footer';
+              grid-gap: 10px;
+              background-color: #2196F3;
+              padding: 10px;
+            }
+            
+            .grid-container > div {
+              background-color: rgba(255, 255, 255, 0.8);
+              text-align: center;
+              padding: 20px 0;
+              font-size: 30px;
+            }
+        </style>
+        <style>
+            body {
+              background-color: rgb(224, 21, 140);
+            }
+            
+            @media only screen and (max-width: 600px) {
+              body {
+                background-color: rgb(230, 14, 158);
+                display: none; 
+              }
+            }
+        </style>
+    </head>
+    <body background="imagen/imagen1.jpg">
+        <div class="grid-container">
+            <div class="item1">
+            <header style="background-color: blueviolet; border:20px outset darkblue">
+                      <h1>
+                      FORMULARIO INSCRIPCIÓN
+                      </h1>
+                      <h2>
+                      Este es mi formulario web donde tendrás que adjuntar todos tus datos personales.
+                      </h2>
+                  </header>
+            </div>
+            <div class="item2">
+            <section style="background-color: darkred; border:15px outset dodgerblue">
+                          <legend>
+                              DATOS PERSONALES
+                          </legend>
+                          <form action="/action_page.php">
+                              <fieldset>
+                               <label for="fname">Nombre:</label>
+                               <input type="text" id="fname" name="fname"><br><br>
+                               <label for="lname">Apellidos:</label>
+                               <input type="text" id="lname" name="lname"><br><br>
+                               <label for="email">Correo electrónico:</label>
+                               <input type="email" id="email" name="email"><br><br>
+                               <label for="pwd">Contraseña:</label>
+                               <input type="password" id="pwd" name="pwd" minlength="8"><br><br>
+                               <label for="birthday">Fecha de nacimiento:</label>
+                               <input type="date" id="birthday" name="birthday"><br><br>
+                               <input type="reset" value="Borrar">
+                               <input type="submit" value="Enviar">
+                              </fieldset>
+                          </form>
+                      </section>
+            </div>
+            <div class="item3">
+            <section style="background-color: fuchsia; border:15px outset purple">
+                          <legend>
+                              OTROS DATOS DE INTERÉS
+                          </legend>
+                          <form action="/action_page.php">
+                              <label for="sexo">Sexo:</label>
+                              <select id="sexos">
+                              <option value="Hombre">Hombre</option>
+                              <option value="Mujer">Mujer</option>
+                              <option value="Otros">Otros</option>
+                              <option value="Prefiero no decirlo">Prefiero no decirlo</option>
+                          </form>  
+                          <form oninput="x.value=parseInt(a.value)+parseInt(b.value)">
+                              <input type="range" id="a" value="50">
+                              +<input type="number" id="b" value="25">
+                              =<output name="x" for="a b"></output>
+                              <input type="reset" value="Borrar">
+                              <input type="submit" value="Enviar">
+                          </form> 
+                      </section>
+            </div>  
+            <div class="item4">
+            <footer>
+                      <h2>
+                      GRACIAS POR SU PARTICIPACIÓN
+                      </h2> 
+                  </footer>
+            </div>
+          </div>
+    </body>
+</html>

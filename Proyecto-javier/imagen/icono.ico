@@ -1,0 +1,1401 @@
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#f44336"/>
+        <link media="all" href="https://assets1.autocasion.com/actualidad/wp-content/cache/autoptimize/css/autoptimize_45cf63a3d33ef6cff12de74d75756a1b.css" rel="stylesheet" /><title>Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus) | Autocasión</title>      
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <link rel="apple-touch-icon" sizes="57x57" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/apple-touch-icon-180x180.png">
+        <link rel="icon" type="image/png" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/favicon-194x194.png" sizes="194x194">
+        <link rel="icon" type="image/png" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/android-chrome-192x192.png" sizes="192x192">
+        <link rel="icon" type="image/png" href="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/favicon-16x16.png" sizes="16x16">
+
+                <link rel="mask-icon" href="https://www.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/safari-pinned-tab.svg" color="#5bbad5">
+
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+
+         
+<script type="text/javascript">
+// Load GPT asynchronously
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function () {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+
+
+
+<script type="text/javascript">
+	var gptAdSlots = [];
+	googletag.cmd.push(function () {
+
+
+		//rpgd
+		window.googletag.pubads().setRequestNonPersonalizedAds(1);
+        var app = Voonto.getInstance();
+        app.when('consent:advertising').then(function(result) {
+            window.googletag.pubads().setRequestNonPersonalizedAds(result ? 0 : 1);
+        });
+
+
+		// Define a size mapping object. The first parameter to addSize is
+		// a viewport size, while the second is a list of allowed ad sizes.
+
+		// This mapping will only display ads when user is on desktop or tablet
+		var mappingDesktop = googletag.sizeMapping().
+						addSize([0, 0], []).
+						addSize([1024, 200], [[300, 250], [300, 600]]).// Horizontal Tablet
+						build();
+
+		// This mapping will display ads when user is on desktop or tablet p or l
+		var mappingMegabanner = googletag.sizeMapping().
+						addSize([0, 0], []).
+						addSize([768, 1024], [728, 90]).// Vertical Tablet
+						addSize([1024, 200], [[728, 90], [980, 90]]).// Horizontal Tablet
+						build();
+		// This mapping will display ads when user is on mobile				
+		var mappingRobaMobile = googletag.sizeMapping().
+						addSize([0, 0], []).
+						addSize([320, 480], [[320,50], [300, 250], [300, 600]]).// Mobile
+						addSize([768, 200], []).// Vertical Tablet
+						build();
+
+		var mappingVisor = googletag.sizeMapping().
+						addSize([0, 0], []).
+						addSize([320, 480], [[320, 100], [320, 50], [300, 250]]).// Mobile
+						addSize([768, 1024], [728, 90]).// Vertical Tablet
+						addSize([1024, 200], [[300, 600], [300, 250]]).// Horizontal Tablet
+						build();
+
+		var mappingAll = googletag.sizeMapping().
+						addSize([0, 0], 'fluid').
+						addSize([1024, 200], ['fluid', [300, 90], [300, 100]]).
+						build();
+		
+		var mappingTextlink = googletag.sizeMapping().
+						addSize([0, 0], []).
+						addSize([320, 480], [140, 20]).// Mobile, Tablet V and H
+						build();
+
+
+
+
+
+
+		gptAdSlots['robapaginas'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [[300, 250], [300, 600]], 'robapaginas').
+						defineSizeMapping(mappingDesktop).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'robapaginas');
+
+		gptAdSlots['robapaginas_dos'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [300, 250], 'robapaginas_dos').
+						defineSizeMapping(mappingDesktop).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'robapaginas_dos');
+
+        gptAdSlots['robapaginas_tres'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [300, 250], 'robapaginas_tres').
+                        defineSizeMapping(mappingDesktop).
+                        setCollapseEmptyDiv(true).
+                        addService(googletag.pubads()).
+                        setTargeting('pos', 'robapaginas_tres');
+
+		gptAdSlots['megabanner'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [[980, 90], [728, 90], [320, 50]], 'megabanner').
+						defineSizeMapping(mappingMegabanner).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'megabanner');
+
+		gptAdSlots['banner_mobile'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [[320, 50], [300, 250], [300, 600]], 'banner_mobile').
+						defineSizeMapping(mappingRobaMobile).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'banner_mobile');
+
+		gptAdSlots['textlink_actual0'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [140, 20], 'textlink_actual0').
+						defineSizeMapping(mappingTextlink).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'textlink_actual0');
+
+		gptAdSlots['textlink_actual1'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [140, 20], 'textlink_actual1').
+						defineSizeMapping(mappingTextlink).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'textlink_actual1');
+
+		gptAdSlots['textlink_actual_visor0'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [140, 20], 'textlink_actual_visor0').
+						defineSizeMapping(mappingTextlink).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'textlink_actual_visor0');
+
+		gptAdSlots['textlink_actual_visor1'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [140, 20], 'textlink_actual_visor1').
+						defineSizeMapping(mappingTextlink).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'textlink_actual_visor1');
+
+		 //los elementos del visor solo aparecen en los artículos con galería ?>
+		gptAdSlots['roba_visor_mobile'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [[320, 50], [300, 250], [300, 600]], 'roba_visor_mobile').
+						defineSizeMapping(mappingRobaMobile).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'roba_visor_mobile');
+
+		gptAdSlots['roba_visor'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [[300, 600], [300, 250]], 'roba_visor').
+						defineSizeMapping(mappingVisor).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'roba_visor');			
+		 
+
+		gptAdSlots['boton_uno'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [[300, 90], [300, 100]], 'boton_uno').
+						defineSizeMapping(mappingAll).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'boton_uno');
+
+		gptAdSlots['boton_dos'] = googletag.defineSlot('/4900/vocento.autocasion/ACTUAL/actual_noticias', [[300, 90], [300, 100]], 'boton_dos').
+						defineSizeMapping(mappingAll).
+						setCollapseEmptyDiv(true).
+						addService(googletag.pubads()).
+						setTargeting('pos', 'boton_dos');
+
+		googletag
+				.pubads()
+
+
+		.collapseEmptyDivs();
+
+		// Start ad fetching
+		googletag.enableServices();
+	});
+</script>
+	<script>
+	    var contClick = -1;
+	    var addsEach =2;
+	</script>
+        <meta property="article:published_time" content="2020-07-12" />
+<meta property="article:modified_time" content="2020-07-12T12:30:04+02:00" />
+<meta property="article:section" content="noticias" />
+<meta property="date" content="2020-07-12" />
+<meta name="news_keywords" content="noticias" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Ya conocemos los 10 coches más vendidos en la primera mitad de 2020. A pesar del Covid-19, los tres primeros puestos son para los mismos modelos que en 2019" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus) | Autocasión" />
+	<meta property="og:description" content="Ya conocemos los 10 coches más vendidos en la primera mitad de 2020. A pesar del Covid-19, los tres primeros puestos son para los mismos modelos que en 2019" />
+	<meta property="og:url" content="https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020" />
+	<meta property="og:site_name" content="Autocasión" />
+	<meta property="article:publisher" content="https://www.facebook.com/autocasion/?fref=ts" />
+	<meta property="og:image" content="https://images1.autocasion.com/actualidad/wp-content/uploads/2020/07/Seat-Leon-2020-1600-02.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="800" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:creator" content="@Autocasion" />
+	<meta name="twitter:site" content="@Autocasion" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="ACD">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="2 minutos">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.autocasion.com/actualidad/#website","url":"https://www.autocasion.com/actualidad/","name":"Autocasi\u00f3n","description":"Autocasion.com","potentialAction":[{"@type":"SearchAction","target":"https://www.autocasion.com/actualidad/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"ImageObject","@id":"https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020#primaryimage","inLanguage":"es","url":"https://images1.autocasion.com/actualidad/wp-content/uploads/2020/07/Seat-Leon-2020-1600-02.jpg","width":1200,"height":800,"caption":"Seat Le\u00f3n, el m\u00e1s vendido en la primera mitad de 2020"},{"@type":"WebPage","@id":"https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020#webpage","url":"https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020","name":"Estos son los 10 coches m\u00e1s vendidos en lo que va de 2020 (a pesar del coronavirus) | Autocasi\u00f3n","isPartOf":{"@id":"https://www.autocasion.com/actualidad/#website"},"primaryImageOfPage":{"@id":"https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020#primaryimage"},"datePublished":"2020-07-12T10:30:04+00:00","dateModified":"2020-07-12T10:30:04+00:00","description":"Ya conocemos los 10 coches m\u00e1s vendidos en la primera mitad de 2020. A pesar del Covid-19, los tres primeros puestos son para los mismos modelos que en 2019","inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Autocasión &raquo; Comentario Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus) del feed" href="https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020/feed" />
+
+
+<link crossorigin="anonymous" rel='stylesheet' id='fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&#038;ver=5.6' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='material-icons-css'  href='https://fonts.googleapis.com/icon?family=Material+Icons&#038;ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='bxslider-css'  href='//cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.css?ver=5.6' type='text/css' media='all' />
+
+
+
+<script type='text/javascript' src='//code.jquery.com/jquery-1.11.0.min.js?ver=1.11.0' id='jquery-js'></script>
+
+<script type='text/javascript' id='ifv-frontend-js-extra'>
+/* <![CDATA[ */
+var ifvdata = {"ajaxurl":"https:\/\/www.autocasion.com\/actualidad\/wp-admin\/admin-ajax.php","nonce":"4ecaa8a047","fitvids":"1","dynamic":"","overlay":"","opacity":"0.75","color":"b","width":"640"};
+/* ]]> */
+</script>
+
+<link rel="https://api.w.org/" href="https://www.autocasion.com/actualidad/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.autocasion.com/actualidad/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.autocasion.com/actualidad/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6" />
+<link rel='shortlink' href='https://www.autocasion.com/actualidad/?p=473090' />
+<link rel="alternate" type="application/json+oembed" href="https://www.autocasion.com/actualidad/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.autocasion.com%2Factualidad%2Fnoticias%2F10-coches-mas-vendidos-en-lo-que-va-2020" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.autocasion.com/actualidad/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.autocasion.com%2Factualidad%2Fnoticias%2F10-coches-mas-vendidos-en-lo-que-va-2020&#038;format=xml" />
+
+<script type="text/javascript">
+var pagina_ga = 'actualidad/noticias/articulo';
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5XGST7');</script>
+<!-- End Google Tag Manager -->
+<!-- Begin librería de vendors -->
+<script src="//static.vocento.com/voonto2/latest/voonto.js?version=20191129" data-cmp="true" data-gdpr-migrate="cookies-notice" data-cmp-position="bottom" data-kangaroo="false"></script>
+<!-- Adobe Tag -->
+<script src="//static.vocento.com/tag-manager/latest/vtm.js" data-property-id="fec76f066c817ef426321ab5822ca519a1d35a9b" data-analytics-id="ppcc_pro" data-legacy-comscore="7715761"></script>
+<script>TagManager.ready.then(function() {TagManager.track();});</script>
+<noscript><img
+src="https://vocento.d3.omtrdc.net/b/ss/vocautocasion,voces/1/G.4--S/340227350?pageName=&g=" width="1" height="1" border="0" /></noscript>
+<!-- End Adobe Tag --><link rel="amphtml" href="https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020/amp"><link rel="icon" href="https://images1.autocasion.com/actualidad/wp-content/uploads/2017/07/favicon-16x16.png" sizes="32x32" />
+<link rel="icon" href="https://images1.autocasion.com/actualidad/wp-content/uploads/2017/07/favicon-16x16.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://images1.autocasion.com/actualidad/wp-content/uploads/2017/07/favicon-16x16.png" />
+<meta name="msapplication-TileImage" content="https://images1.autocasion.com/actualidad/wp-content/uploads/2017/07/favicon-16x16.png" />
+        <!-- Begin comScore Inline Tag 1.1302.13 / DAX 2.4 -->
+        <script type="text/javascript">
+            var browserDev = (/android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()));
+            var deviceC = '';
+            if (!browserDev == false) {                
+                var deviceC = 'm';                
+            }            
+            // <![CDATA[
+            function udm_(e){
+                var t="comScore=", n=document, r=n.cookie, i="", s="indexOf", o="substring", u="length", a=2048, f, l="&ns_", c="&", h, p, d, v, m=window, g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+                var ns_site = 'autocasion';
+                var voc_adb = 0;
+                if(typeof isAdBlockActive=='undefined'){
+                    voc_adb = 1;
+                }
+                udm_('http'+(document.location.href.charAt(4)=='s'?'s://sb':'://b')+'.scorecardresearch.com/b?c1=2&c2=7715761&ns_site='+ns_site+'&name=www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020&voc_site='+ns_site+'&voc_se=&voc_s1=&voc_s2=&voc_s3=&voc_s4=&voc_tn=&voc_ho=&voc_tc=&voc_ed=&voc_au=&voc_fep=&voc_fem=&voc_or=&voc_pr=1&voc_pl='+deviceC+'&voc_pu=&voc_ate=&voc_adp=&voc_adb='+voc_adb+'&voc_idi=&voc_usrid=&voc_tusr=&voc_usrag=&voc_usrcp=&voc_usrgen=&voc_usrser=&voc_usrsvs=&voc_pw_pid=&voc_pw_meter=&voc_pw_count=&voc_pw_max=&voc_pw_result=&voc_pw_cookie=&ns_http_status=');
+            // ]]>
+        </script>
+        <noscript><p><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=7715761&amp;ns_site=autocasion&amp;name=www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020&amp;voc_site=autocasion&amp;voc_se=&amp;voc_s1=&amp;voc_s2=&amp;voc_s3=&amp;voc_s4=&amp;voc_tn=&amp;voc_ho=&amp;voc_tc=&amp;voc_ed=&amp;voc_au=&amp;voc_fep=&amp;voc_fem=&amp;voc_or=&amp;voc_pr=1&amp;voc_pl=&amp;voc_pu=&amp;voc_ate=&amp;voc_adp=&amp;voc_adb=0&amp;voc_idi=&amp;voc_usrid=&amp;voc_tusr=&amp;voc_usrag=&amp;voc_usrcp=&amp;voc_usrgen=&amp;voc_usrser=&amp;voc_usrsvs=&amp;voc_pw_id=&amp;voc_pw_meter=&amp;voc_pw_count=&amp;voc_pw_max=&amp;voc_pw_result=&amp;voc_pw_cookie=" height="1" width="1" alt="*"></p></noscript>
+        <!--Llamada a Javascript externo -->
+        <script type="text/javascript" language="JavaScript1.3" src=https://sb.scorecardresearch.com/c2/7715761/cs.js></script>
+        <!-- End comScore Inline Tag 1.1302.13 / DAX 2.4 -->
+        
+        
+     <script type="application/ld+json"> 
+		{"@context": "http://schema.org",
+		"@type": "NewsArticle", 
+		"mainEntityOfPage": { 
+			"@type": "WebPage",
+			"@id": "https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020"
+		}, 
+		"headline": "Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus)", 
+		"image": {
+			"@type": "ImageObject",
+			"url": "https://images1.autocasion.com/actualidad/wp-content/uploads/2020/07/Seat-Leon-2020-1600-02.jpg",
+			"width": 1200,
+			"height": 800		}, 
+		"datePublished": "2020-07-12",
+		"dateModified": "2020-07-12T12:30:04+02:00", 
+		"author": { 
+			"@type": "Person", 
+			"name": "ACD" 
+		}, 
+		"publisher": { 
+			"@type": "Organization", 
+			"name": "Autocasión",
+			"logo": { 
+				"@type": "ImageObject", 
+				"url": "https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/logo.png"} },
+		"description": "Ya conocemos los 10 coches más vendidos en la primera mitad de 2020. A pesar del Covid-19, los tres primeros puestos son para los mismos modelos que en 2019." } 
+	</script>
+
+  
+    </head>
+
+    <body class="noticias-template-default single single-noticias postid-473090">
+
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5XGST7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+    
+            <div class="banner-cabecera hidden-xs">
+            <div id="megabanner" data-pos="megabanner" class="creatividad-v" style="margin:auto;">
+                <script type="text/javascript">
+                    googletag.cmd.push(function () {
+                        window.googletag.display("megabanner");
+                    });
+                </script>
+            </div>
+        </div>
+     <!--HEADER-->
+        <header class="fixed">
+            <nav class="navbar">
+                <div class="container menu hidden-xs hidden-sm">
+                    <a href="/" class="logo"><img src="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/logo.png" alt="Autocasión"/></a>
+                                        <a href="/coches-segunda-mano">Coches de segunda mano</a>
+                    <a href="/coches-nuevos">Coches nuevos</a>
+                    <div class="desplegar">
+                        <a href="#">Más <span class="icon icon-flecha-abajo"></span></a>
+                        <ul>
+                            <li><a href="/coches-km0">Coches km. 0 y demo</a></li>
+                            <li><a href="/vehiculos-industriales-segunda-mano-furgonetas">Furgonetas de ocasión</a></li>
+                            <li><a href="/coches-sin-carnet-segunda-mano">Coches sin carnet de segunda mano</a></li>
+                            <li><a href="/venta-coches-clasicos">Coches clásicos</a></li>
+                            <li><a href="/accesorios-repuestos-segunda-mano">Accesorios y repuestos</a></li>
+                            <li><a href="/industriales">Vehículos industriales</a></li>
+                            <li><a href="/otros-segunda-mano-caravanas">Caravanas y remolques</a></li>
+                        </ul>
+                    </div>
+                    <div class="desplegar">
+                        <a href="#">Actualidad<span class="icon icon-flecha-abajo"></span></a>
+                        <ul>
+                            <li><a href="/actualidad">Toda la actualidad</a></li>
+                            <li><a href="/actualidad/pruebas">Pruebas y novedades</a></li>
+                            <li><a href="/actualidad/reportajes">Reportajes y consejos</a></li>
+                            <li><a href="/actualidad/noticias">Noticias del motor</a></li>
+                            <li><a href="/actualidad/video">Vídeos</a></li>
+                            <li><a href="/actualidad/microsites">Especiales</a></li>                            
+                        </ul>
+                    </div>
+                    <div class="desplegar">
+                        <a href="#">Servicios<span class="icon icon-flecha-abajo"></span></a>
+                        <ul>
+                            <li><a href="/tasacion-de-coches">Tasa tu coche</a></li>
+                            <li><a href="/prestamos">Calcula tu préstamo</a></li>
+                            <li><a href="/calcula-tu-seguro">Calcula tu seguro</a></li>
+                                                       <li><a href="/transmision-vehiculos">Tramites compra-venta</a></li>
+                        </ul>
+                    </div>
+                    <div class="personal">                    
+                        <a href="/vender-coche" class="pta">Vende tu coche</a>
+                        <a href="#" class="searchtip closetip" title="Buscar"><span class="icon icon-buscar-coche"></span></a>
+                        <a href="/particular/area-privada/favoritos" title="Mis favoritos"><span class="icon icon-estrella-masa"></span></a>
+                        <a href="/login" title="Acceso usuarios"><span class="icon icon-usuario-masa"></span></a>
+                    </div>
+                    <div class="bk-search small" id="search_tooltip">
+                        <form role="search" method="get" id="searchheader" action="https://www.autocasion.com/actualidad/">
+                            <input type="text" value="" name="s" id="s" placeholder="Busca noticias, pruebas, novedades...">
+                            <button type="submit" id="searchsubmit" class="btn-orange" value=""><span class="icon icon-buscar-coche"></span></button>
+                                                    </form>
+                    </div> 
+                </div>
+                <div class="container menu-movil visible-xs visible-sm">
+                    <a href="/" class="logo"><img src="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/logo.png" alt="Autocasión"/></a>
+                                        <div class="happy-meal">
+                        <a href="/vender-coche" class="pta hidden-xs">Vende tu coche</a>
+                        <a href="#" class="searchtip closetip" title="Buscar"><span class="icon icon-buscar-coche"></span></a>
+                                                <a href="/login" title="Acceso usuarios"><span class="icon icon-usuario-masa"></span></a>
+                                                <div class="desplegar">
+                            <a href="#"><span class="icon icon-menu"></span></a>
+                            <ul>
+                                <li><a href="#" class="cerrar">Menú <span class="icon icon-cerrar"></span></a></li>
+                                <li class="desplegar comprar abierto">
+                                    <a href="#">Buscar <span class="icon icon-flecha-abajo"></span></a>
+                                    <ul>
+                                        <li><span>Coches</span></li>
+                                        <li><a href="/coches-segunda-mano">Coches segunda mano </a></li>
+                                        <li><a href="/coches-nuevos">Coches nuevos </a></li>
+                                        <li><a href="/coches-km0">Coches km. 0 y demo</a></li>
+                                        <li><a href="/coches-sin-carnet-segunda-mano">Coches sin carnet de segunda mano</a></li>
+                                        <li><a href="/venta-coches-clasicos">Coches clásicos </a></li>
+                                        <li><span>Más vehículos</span></li>
+                                        <li><a href="/vehiculos-industriales-segunda-mano-furgonetas">Furgonetas de ocasión </a></li>
+                                        <li><a href="/industriales">Vehículos industriales</a></li>
+                                        <li><a href="/otros-segunda-mano-caravanas">Caravanas y remolques </a></li>
+                                        <li><span>Otros</span></li>
+                                        <li><a href="/accesorios-repuestos-segunda-mano">Accesorios y repuestos </a></li>
+                                    </ul>
+                                </li>
+                                <li class="hidden-sm"><a href="/vender-coche" class="pta">Vende tu coche</a></li>
+                                <li class="desplegar">
+                                    <a href="#">Actualidad <span class="icon icon-flecha-abajo "></span></a>
+                                    <ul>
+                                        <li><a href="/actualidad">Toda la actualidad</a></li>
+                                        <li><a href="/actualidad/pruebas">Pruebas y novedades</a></li>
+                                        <li><a href="/actualidad/reportajes">Reportajes y consejos</a></li>
+                                        <li><a href="/actualidad/noticias">Noticias del motor</a></li>
+                                        <li><a href="/actualidad/video">Vídeos</a></li>
+                                        <li><a href="/actualidad/microsites">Especiales</a></li>        
+                                    </ul>
+                                </li>
+                                <li class="desplegar">
+                                    <a href="#">Servicios <span class="icon icon-flecha-abajo"></span></a>
+                                    <ul>
+                                        <li><a href="/tasacion-de-coches">Tasa tu coche </a></li>
+                                        <li><a href="/prestamos">Calcula tu préstamo </a></li>
+                                        <li><a href="/calcula-tu-seguro">Calcula tu seguro</a></li>
+                                        <li><a href="/transmision-vehiculos">Tramites compra-venta </a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="bk-search small" id="search_tooltip_mobile">
+                        <form role="search" method="get" id="searchheader_mobile" action="https://www.autocasion.com/actualidad/">
+                            <input type="text" value="" name="s" id="s_mobile" placeholder="Busca noticias, pruebas, novedades...">
+                            <button type="submit" id="searchsubmit_mobile" class="btn-orange" value=""><span class="icon icon-buscar-coche"></span></button>
+                                                    </form>
+                    </div> 
+                </div>
+            </nav>
+        </header>
+        <!--END HEADER-->   
+
+
+        <!--MAIN+ASIDE-->
+        <div class="container">
+
+            <main role="main">
+                <script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement":
+[
+{
+"@type": "ListItem",
+"position": 1,
+"item":
+{
+"@id": "https://www.autocasion.com",
+"name": "Autocasión"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item":
+{
+"@id": "https://www.autocasion.com/actualidad/",
+"name": "Actualidad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item":
+{
+"@id": "https://www.autocasion.com/actualidad/noticias",
+"name": "Noticias del motor"
+}
+}
+]
+}
+</script>                <ol class="breadcrumb hidden-xs"><li><a title="Ir a Autocasión." href="https://www.autocasion.com" class=""><span>Autocasión</span></a></li><li><a title="Ir a Actualidad." href="https://www.autocasion.com/actualidad/" class=""><span>Actualidad</span></a></li><li><a title="Ir a Noticias del motor." href="https://www.autocasion.com/actualidad/noticias" class=""><span>Noticias del motor</span></a></li><li><span>Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus)</span></li></ol>              
+
+            	
+                     
+                <article class="articulo-content mainbar">
+
+                    <a href="https://www.autocasion.com/actualidad/noticias" class="category-single" rel="nofollow">Noticia</a>
+                    <h1 class="bk-title">Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus)</h1>
+                                            
+                    <div class="clearfix"></div> 
+                    
+                    <!--CONTENIDO-->
+                    <div class="contenido">
+
+                        <div id="sec-inicio">
+                                                            <div class="thumbimg" data-toggle="modal" data-target="#myModal">
+                                    <div class="thumbwrap" >
+                                                                                  <img src="https://images1.autocasion.com/unsafe/1200x800/actualidad/wp-content/uploads/2020/07/Seat-Leon-2020-1600-02.jpg" width="1200" height="800" class="img-responsive" >
+                                                                            </div>
+                                                                        <div class="bk-bgImg"><span>Ampliar</span></div>
+                                </div>
+                            
+                          
+                            <div class="clearfix">  
+                                <p class="nomarg">
+                                    
+	<a href="https://www.autocasion.com/actualidad/autor/antonio-corral" title="Entradas por ACD " class="author url fn" rel="author">
+		<img src="https://images1.autocasion.com/unsafe/150x150/actualidad/wp-content/uploads/2020/11/unnamed-150x150.jpg" width="150" height="150" alt="avatar ACD " >		ACD 	</a>
+                                                                        <span><i class="icon icon-calendario"></i> 12 de  julio, 2020</span>
+                                </p>
+                                <div class="bk-share-header">
+                                    <ul>
+                                        <li>
+                                            <span data-target="#comentarios" class="ac-share-button comentlink"><i class="icon moon-icono_023_mensajes"></i> 
+                                            <span class="bk-number">0</span>                                            </span>
+                                        </li>
+                                        <li>
+                                            <a rel="nofollow" href="http://www.facebook.com/" onclick="popUp=window.open('http://www.facebook.com/sharer.php?u=https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020','popupwindow','scrollbars=yes,width=800,height=400'); popUp.focus(); return false;" class="ac-share-button share_facebook"><i class="icon icon-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a rel="nofollow" href="http://twitter.com/" onclick="popUp=window.open('http://twitter.com/intent/tweet?text=Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus)&amp;url=https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020','popupwindow','scrollbars=yes,width=800,height=400'); popUp.focus(); return false;" class="ac-share-button share_twitter"><i class="icon icon-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a rel="nofollow" href="whatsapp://send?text=Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus)%20https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020" class="ac-share-button share_whatsapp"><i class="icon moon-whatsapp"></i></i></a>
+                                        </li>                                    
+                                                                            </ul>
+                                </div>
+                            </div>
+
+                                                    <p class="excerpt">Ya conocemos los 10 coches más vendidos en la primera mitad de 2020. A pesar del Covid-19, los tres primeros puestos son para los mismos modelos que en 2019.</p>
+                                                                            <div class="col-xs-12 hidden-sm hidden-md hidden-lg banner-mobile">
+                                <div id="banner_mobile" class="creatividad" data-pos="banner_mobile">
+                                  <script type="text/javascript">
+                                    googletag.cmd.push(function () {
+                                        window.googletag.display("banner_mobile");
+                                    });
+                                  </script>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        
+                        <p>Como el que no quiere la cosa y casi sin habernos enterado (¡cómo pasa el tiempo cuando estás confinado!), ya <strong>hemos llegado al ecuador del año 2020</strong> y el mundo del automóvil se ha visto particularmente afectado por culpa del coronavirus.</p>
+<p>Cierres de plantas y de concesionarios han lastrado las cifras de matriculaciones en la primera mitad del año, mostrando un <strong>descenso del 51 por ciento</strong> respecto al mismo periodo del año pasado.</p>
+<h2>El Seat León, imparable</h2>
+<p>No obstante, los planes de ayuda y el deseo de los automovilistas por cambiar de coche están provocando que estas últimas semanas la demanda se haya multiplicado y<strong> nos genera la esperanza de que de aquí a diciembre las cosas mejoren más</strong> y se obtengan cifras de ventas superiores a las de los últimos seis meses de 2019.</p>
+<p style="text-align: center;">Puede que te interese: <a href="https://www.autocasion.com/actualidad/reportajes/cuales-los-10-coches-mas-vendidos-la-historia" target="_blank" rel="noopener noreferrer">Los 10 coches más vendidos de la historia</a></p>
+<p>Hasta que eso ocurra, ya tenemos las cifras de los 10 coches más vendidos en lo que va de año, que pueden decantar más de una matriculación entre los potenciales compradores. “Si está entre los más vendidos, seguro que se trata de un buen producto”, pensarán algunos y, ciertamente, el <strong>top ten de coches más vendidos</strong> en lo que va de 2020 cumplen con esa premisa.</p>
+<h3><strong>Los coches más vendidos en lo que va de 2020</strong></h3>
+<ol>
+<li><a href="https://www.autocasion.com/marcas/seat/leon-compactos" target="_blank" rel="noopener noreferrer">Seat León</a> (9.661 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/dacia/sandero-compactos" target="_blank" rel="noopener noreferrer">Dacia Sandero</a> (8.671 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/nissan/qashqai-todoterrenos" target="_blank" rel="noopener noreferrer">Nissan Qashqai</a> (8.152 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/renault/clio-compactos" target="_blank" rel="noopener noreferrer">Renault Clio</a> (7.888 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/seat/ateca-todoterrenos" target="_blank" rel="noopener noreferrer">Seat Ateca</a> (6.582 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/toyota/corolla-compactos" target="_blank" rel="noopener noreferrer">Toyota Corolla</a> (6.530 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/seat/arona-todoterrenos" target="_blank" rel="noopener noreferrer">Seat Arona</a> (6.422 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/peugeot/3008-suv-todoterrenos" target="_blank" rel="noopener noreferrer">Peugeot 3008</a> (6.083 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/opel/corsa-compactos" target="_blank" rel="noopener noreferrer">Opel Corsa</a> (6.074 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/peugeot/208-compactos" target="_blank" rel="noopener noreferrer">Peugeot 208</a> (5.947 unidades)</li>
+</ol>
+<p>Sorprende de esta clasificación, respecto a los más vendidos del año pasado, la desaparición del “top 10” del <a href="https://www.autocasion.com/marcas/renault/megane-compactos" target="_blank" rel="noopener noreferrer">Renault Mégane</a> (quinto en 2019), del <a href="https://www.autocasion.com/marcas/seat/ibiza-compactos" target="_blank" rel="noopener noreferrer">Seat Ibiza</a> (séptimo) y del <a href="https://www.autocasion.com/marcas/volkswagen/golf-compactos" target="_blank" rel="noopener noreferrer">Volkswagen Golf</a> (octavo) y la entrada, en su lugar, del Seat Ateca a la quinta posición, del Toyota Corolla al sexto puesto y del Peugeot 208 en la décima posición.</p>
+<p>Lo que sí se mantiene es el podio, y en el mismo orden: <strong>León, Sandero y Qashqai repiten laureles</strong>.</p>
+<h3><strong>Por marcas, la clasificación queda de esta manera</strong></h3>
+<ol>
+<li><a href="https://www.autocasion.com/marcas/seat" target="_blank" rel="noopener noreferrer">Seat</a> (30.512 unidades),</li>
+<li><a href="https://www.autocasion.com/marcas/volkswagen" target="_blank" rel="noopener noreferrer">Volkswagen</a> (26.932 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/peugeot" target="_blank" rel="noopener noreferrer">Peugeot</a> (26.680 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/toyota" target="_blank" rel="noopener noreferrer">Toyota</a> (23.621 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/renault" target="_blank" rel="noopener noreferrer">Renault</a> (22.924 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/citroen" target="_blank" rel="noopener noreferrer">Citroën</a> (19.018 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/kia" target="_blank" rel="noopener noreferrer">Kia</a> (17.682 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/audi" target="_blank" rel="noopener noreferrer">Audi</a> (16.736 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/hyundai" target="_blank" rel="noopener noreferrer">Hyundai</a> (16.436 unidades)</li>
+<li><a href="https://www.autocasion.com/marcas/mercedes-benz" target="_blank" rel="noopener noreferrer">Mercedes-Benz</a> (15.923 unidades).</li>
+</ol>
+                      
+
+                    </div>
+
+                    <!--END CONTENIDO-->
+                    
+
+
+
+
+
+
+                    <!--COMPARTE ARTICULO-->
+                    <div class="bk-share-main">
+                        <h4>Comparte este artículo:</h4>
+                        <div class="bk-share-button">
+                            <ul>
+                                <li>
+                                    <span data-target="#comentarios" class="ac-share-button comentlink"><i class="icon moon-icono_023_mensajes"></i> <span class="bk-number">0</span></span>
+                                </li>
+                                <li>
+                                    <a rel="nofollow" href="http://www.facebook.com/" onclick="popUp=window.open('http://www.facebook.com/sharer.php?u=https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020','popupwindow','scrollbars=yes,width=800,height=400'); popUp.focus(); return false;" class="ac-share-button share_facebook"><i class="icon icon-facebook"></i></a>
+                                </li>
+                                <li>
+                                    <a rel="nofollow" href="http://twitter.com/" onclick="popUp=window.open('http://twitter.com/intent/tweet?text=Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus)&amp;url=https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020','popupwindow','scrollbars=yes,width=800,height=400'); popUp.focus(); return false;" class="ac-share-button share_twitter"><i class="icon icon-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a rel="nofollow" href="whatsapp://send?text=Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus)%20https://www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020" class="ac-share-button share_whatsapp"><i class="icon moon-whatsapp"></i></i></a>
+                                </li>
+                                                                
+                            </ul>
+                        </div>
+                    </div>
+                    <!--END COMPARTE ARTICULO-->
+                     
+
+                                                
+
+ <!--ARTICULOS SIMILARES-->
+    <div class="bk-features clearfix">
+        <h4>Artículos similares</h4>
+        <div class="carousel slide multi-item-carousel" id="carouselFeatured">
+            <div class="carousel-inner" role="listbox">
+             
+                <div class="item active">
+                    <div class="bk-special col-xs-12 col-sm-4">
+                        <a href="https://www.autocasion.com/actualidad/pruebas/prueba-nuevo-seat-leon-2020-tdi-150" class="img-box">
+                            <img src="https://images1.autocasion.com/unsafe/280x140/actualidad/wp-content/uploads/2020/06/IPP-All-new-SEAT-Leon_45_HQ.jpg" width="280" height="140" class="img-responsive" alt="Primera prueba del nuevo SEAT León 2020: mejorando lo excelente" >                                                        <p class="overhide">Primera prueba del nuevo SEAT León 2020: mejorando lo excelente</p>
+                        </a>
+                    </div>
+                </div>
+               
+                <div class="item ">
+                    <div class="bk-special col-xs-12 col-sm-4">
+                        <a href="https://www.autocasion.com/actualidad/pruebas/nuevo-seat-leon-2020-4-generacion-fotos-info-motores" class="img-box">
+                            <img src="https://images1.autocasion.com/unsafe/280x140/actualidad/wp-content/uploads/2020/01/nuevo-Seat-Leon-2020-4-generacion.jpg" width="280" height="140" class="img-responsive" alt="Estos son los precios del nuevo Seat León 2020" >                                                        <p class="overhide">Estos son los precios del nuevo Seat León 2020</p>
+                        </a>
+                    </div>
+                </div>
+               
+                <div class="item ">
+                    <div class="bk-special col-xs-12 col-sm-4">
+                        <a href="https://www.autocasion.com/actualidad/noticias/coche-mas-vendido-mundo-2019" class="img-box">
+                            <img src="https://images1.autocasion.com/unsafe/280x140/actualidad/wp-content/uploads/2020/05/Toyota-Corolla_Sedan-2020-1600-24.jpg" width="280" height="140" class="img-responsive" alt="¿Cuál es el coche más vendido en el mundo? Se vende en España, aunque no es un “top”" >                                                        <p class="overhide">¿Cuál es el coche más vendido en el mundo? Se vende en España, aunque no es un “top”</p>
+                        </a>
+                    </div>
+                </div>
+                           </div>
+            <a class="left carousel-control" href="#carouselFeatured" role="button" data-slide="prev">
+                <i class="icon icon-flecha-izda-2"></i>
+            </a>
+            <a class="right carousel-control" href="#carouselFeatured" role="button" data-slide="next">
+                <i class="icon icon-flecha-dcha-2"></i>
+            </a>
+        </div>
+    </div> 
+    <!--END ARTICULOS SIMILARES-->
+                  
+                                         
+
+                                        <div id="comentarios" class="bk-comments">
+    <h4>Comentarios</h4>  
+   
+
+       
+			<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020#respond" style="display:none;">Cancelar</a></small></h3><form action="https://www.autocasion.com/actualidad/wp-comments-post.php" method="post" id="commentform" class="comment-form"><div class="row">
+				<div class="col-xs-12 col-sm-12 col-lg-12">
+					<label for="comment">Deja tu comentario:</label>
+					<textarea id="comment" name="comment" aria-required="true" placeholder="" required="required"></textarea>
+				</div><div class="col-xs-12 col-sm-6 col-lg-6">
+							<label for="author">Tu nombre:</label>
+							<input id="author" name="author" type="text" placeholder="" size="30" maxlength="245" aria-required="true" required="required">
+								</div>
+<div class="col-xs-12 col-sm-6 col-lg-6">
+							<label for="email">Tu email:</label>
+							<input type="email" id="email" name="email" placeholder="" value="" size="30" maxlength="100" aria-required="true" required="required"></div></div>
+<div class="accept"><p>						
+							<input id="terms" type="checkbox" name="terms" required oninvalid="this.setCustomValidity('Debes aceptar nuestra política de privacidad')" oninput="setCustomValidity('')" > * He leído la <a href="https://www.autocasion.com/politica-privacidad" target="_blank">Política de privacidad</a>
+								<p></div>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Guarda mi nombre, correo electrónico y web en este navegador para la próxima vez que comente.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="btn-orange" value="Publicar" /> <input type='hidden' name='comment_post_ID' value='473090' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="cbc5e2580c" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="138"/></p></form>	</div><!-- #respond -->
+				
+				 <ul id="respond-timeline" class="comment-respond">
+	    	</ul>
+</div>
+
+
+
+
+
+
+                                                                  <!--NEWSLETTER--> 
+                    <div class="newsletter">
+                        <h4>Todas las noticias del motor en tu email</h4>
+                        <p>Recibirás en tu email las últimas noticias, novedades y pruebas del mundo del motor</p>
+                        <div id="subscribe-form-mobile" class="subscribe-form">
+                            <span class="subscription-ok news-error" style="display: none;">
+                                <label class="ok" for="terms">Tu email se ha añadido al listado de destinatarios de nuestro boletín</label>
+                            </span>
+                            <form method="post" novalidate="novalidate">
+                                <input type="text" name="correo" id="correo" placeholder="Escribe aquí tu Email" data-error="#email-error-mobile">
+                                <button type="submit" id="newssubmit" class="btn-orange" value=""><i class="icon icon-sobre-nuevo-1"></i><span class="hidden-xs">Suscribirme</span></button>
+                                <span class="news-error" id="email-error-mobile" style="display: none;"></span>
+                                <div class="accept">
+                                    <p><input id="field_terms" type="checkbox" name="terms" data-error="#terms-error-mobile">*He leído la <a href="https://www.autocasion.com/politica-privacidad">Política de privacidad</a></p>
+                                    <span class="news-error" id="terms-error-mobile" style="display: none;"></span>
+                                </div>
+                            </form>
+                        </div>      
+                    </div>
+                    <!--END NEWSLETTER-->
+
+
+                    <div class="bk-links box-sidebar ma25 visible-xs visible-sm">
+                         
+    <h4>Todas las secciones</h4>
+    <ul>
+        <li>
+            <a href="/actualidad/pruebas" class="bk-btn-orange">Pruebas y novedades</a>
+        </li>
+        <li>
+            <a href="/actualidad/reportajes" class="bk-btn-orange">Reportajes y consejos</a>  
+        </li>
+        <li>
+            <a href="/actualidad/noticias" class="bk-btn-orange">Noticias del motor</a>
+        </li>
+        <li>
+            <a href="/actualidad/video" class="bk-btn-orange">Vídeos</a>
+        </li>
+        <li>
+            <a href="/actualidad/microsites" class="bk-btn-orange">Especiales</a>
+        </li>
+    </ul>
+                    </div>
+
+                    <div class="bk-social box-sidebar ma25 visible-xs visible-sm">
+                            <h4>Síguenos en las redes</h4>
+    <div class="bk-share-button">
+        <a href="https://twitter.com/Autocasion" class="bk-twt" target="_blank"><i class="icon icon-twitter"></i></a>
+    </div>
+    <div class="bk-share-button">
+        <a href="https://www.facebook.com/autocasion" class=" bk-face" target="_blank"><i class="icon icon-facebook"></i></a>
+    </div>
+    <div class="bk-share-button">
+        <a href="https://bit.ly/2OCYftY" class="bk-ytube" target="_blank"><i class="icon icon-youtube"></i></a>
+    </div>
+    <div class="bk-share-button">
+        <a href="https://www.instagram.com/autocasion/?hl=es" class="bk-insta" target="_blank"><i class="icon moon-instagram"></i></a>
+    </div>
+                    </div>
+
+
+
+               
+                     
+                    <div class="bk-selection box-sidebar ma25 visible-xs visible-sm">
+                                                
+    <h4>Aquí está tu coche</h4>
+    <form role="search" class="btform" method="post" id="formWidget-mobile">
+        <div>
+           <input type="radio" class="btclass" name="class_name" id="class_name1-mobile" value="AdUsedCar" />
+            <label for="class_name1-mobile">Segunda mano</label>
+        </div>
+        <div class="bk-last">
+            <input type="radio" class="btclass" name="class_name" id="class_name2-mobile" value="AdNewCar" />
+            <label for="class_name2-mobile">Coches nuevos</label>
+        </div>
+        <select name="brand" class="btbrands" id="brands-mobile">
+            <option value="">Elige una marca</option>
+        </select>
+        <select name="family" class="btfamilies" id="families-mobile" disabled>
+            <option value="">Elige un modelo</option>
+        </select>
+        <select name="province" class="btprovinces"  id="provinces-mobile">
+            <option value="">Elige una provincia</option>
+        </select>
+        <select name="bodywork" class="btbodyworks"  id="bodyworks-mobile" disabled style="display: none;">
+            <option value="">Selecciona  una carrocería</option>
+        </select>
+        <button type="submit" class="btn-orange">Buscar</button>
+    </form>
+
+
+
+
+                    </div>
+
+
+                    
+                      
+                                        <div class="bk-last-test box-sidebar ma25 visible-xs visible-s">
+                        
+
+
+	 	
+	    <h4>Lo más visto</h4>
+	    	    <a href="https://www.autocasion.com/actualidad/pruebas/ford-mustang-match-coche-electrico-suv-fotos-informacion-precio">
+	        <div class="row">
+	            <div class="col-xs-6 col-md-6">
+	            	<img src="https://images1.autocasion.com/unsafe/145x75/actualidad/wp-content/uploads/2020/10/Ford-Mustang-Mach-e-electrico-review.jpg" width="145" height="75" class="img-responsive" alt="VÍDEO| Primera prueba del Ford Mustang Mach-E: eléctrico y deportivo" >	                	            </div>
+	            <div class="col-xs-6 col-md-6">
+	                <p class="overhide">VÍDEO| Primera prueba del Ford Mustang Mach-E: eléctrico y deportivo</p>
+	            </div>
+	        </div>  
+	    </a>
+			    <a href="https://www.autocasion.com/actualidad/pruebas/nuevo-nissan-qashqai-2021-fotos-datos">
+	        <div class="row">
+	            <div class="col-xs-6 col-md-6">
+	            	<img src="https://images1.autocasion.com/unsafe/145x75/actualidad/wp-content/uploads/2020/12/Nissan-Qashqai-2022-1280-07-1.jpg" width="145" height="75" class="img-responsive" alt="Nuevo Nissan Qashqai 2021: así es la tercera generación del rey de los SUVs" >	                	            </div>
+	            <div class="col-xs-6 col-md-6">
+	                <p class="overhide">Nuevo Nissan Qashqai 2021: así es la tercera generación del rey de los SUVs</p>
+	            </div>
+	        </div>  
+	    </a>
+			    <a href="https://www.autocasion.com/actualidad/pruebas/hyundai-bayon-2021-suv-urbano-datos-informacion-imagenes">
+	        <div class="row">
+	            <div class="col-xs-6 col-md-6">
+	            	<img src="https://images1.autocasion.com/unsafe/145x75/actualidad/wp-content/uploads/2021/01/Hyundai-Bayon-2022-1280-02.jpg" width="145" height="75" class="img-responsive" alt="Hyundai Bayon 2021: por fin le hemos conocido" >	                	            </div>
+	            <div class="col-xs-6 col-md-6">
+	                <p class="overhide">Hyundai Bayon 2021: por fin le hemos conocido</p>
+	            </div>
+	        </div>  
+	    </a>
+			    <a href="https://www.autocasion.com/actualidad/reportajes/coche-mitico-renault-4-latas-historia-fotos-datos">
+	        <div class="row">
+	            <div class="col-xs-6 col-md-6">
+	            	<img src="https://images1.autocasion.com/unsafe/145x75/actualidad/wp-content/uploads/2021/02/Coche-mitico-renault-4-latas-5.jpg" width="145" height="75" class="img-responsive" alt="Coches míticos: Renault 4 latas, el coche más generoso" >	                	            </div>
+	            <div class="col-xs-6 col-md-6">
+	                <p class="overhide">Coches míticos: Renault 4 latas, el coche más generoso</p>
+	            </div>
+	        </div>  
+	    </a>
+			    <a href="https://www.autocasion.com/actualidad/pruebas/mercedes-benz-eqa-2021-electrico">
+	        <div class="row">
+	            <div class="col-xs-6 col-md-6">
+	            	<img src="https://images1.autocasion.com/unsafe/145x75/actualidad/wp-content/uploads/2021/01/20C0579_012-1.jpg" width="145" height="75" class="img-responsive" alt="Este es el precio del Mercedes EQA 2021" >	                	            </div>
+	            <div class="col-xs-6 col-md-6">
+	                <p class="overhide">Este es el precio del Mercedes EQA 2021</p>
+	            </div>
+	        </div>  
+	    </a>
+		  
+	
+                    </div>
+                   
+
+                 
+               
+
+                  
+
+
+
+
+
+                    <div class="clearfix"></div> 
+            
+                </article>
+               
+                            </main>
+            <!--END MAIN-->
+            
+            <!--SIDEBAR-->
+            <aside class="hidden-xs hidden-sm">
+                                               <div class="sidebar">
+
+                                        <div class="bk-links box-sidebar ma30">
+                         
+    <h4>Todas las secciones</h4>
+    <ul>
+        <li>
+            <a href="/actualidad/pruebas" class="bk-btn-orange">Pruebas y novedades</a>
+        </li>
+        <li>
+            <a href="/actualidad/reportajes" class="bk-btn-orange">Reportajes y consejos</a>  
+        </li>
+        <li>
+            <a href="/actualidad/noticias" class="bk-btn-orange">Noticias del motor</a>
+        </li>
+        <li>
+            <a href="/actualidad/video" class="bk-btn-orange">Vídeos</a>
+        </li>
+        <li>
+            <a href="/actualidad/microsites" class="bk-btn-orange">Especiales</a>
+        </li>
+    </ul>
+                    </div>
+
+                                        <div class="bk-social box-sidebar ma30">
+                            <h4>Síguenos en las redes</h4>
+    <div class="bk-share-button">
+        <a href="https://twitter.com/Autocasion" class="bk-twt" target="_blank"><i class="icon icon-twitter"></i></a>
+    </div>
+    <div class="bk-share-button">
+        <a href="https://www.facebook.com/autocasion" class=" bk-face" target="_blank"><i class="icon icon-facebook"></i></a>
+    </div>
+    <div class="bk-share-button">
+        <a href="https://bit.ly/2OCYftY" class="bk-ytube" target="_blank"><i class="icon icon-youtube"></i></a>
+    </div>
+    <div class="bk-share-button">
+        <a href="https://www.instagram.com/autocasion/?hl=es" class="bk-insta" target="_blank"><i class="icon moon-instagram"></i></a>
+    </div>
+                    </div>
+
+                                        <div id="robapaginas" class="ma30 creatividad" data-pos="robapaginas">
+                        <script type="text/javascript">
+                            googletag.cmd.push(function () {
+                                window.googletag.display("robapaginas");
+                            });
+                        </script>
+                    </div>
+
+
+                    
+                                                            <div class="bk-selection box-sidebar ma30">
+                            
+    <h4>Aquí está tu coche</h4>
+    <form role="search" class="btform" method="post" id="formWidgetsidebar">
+        <div>
+           <input type="radio" class="btclass" name="class_name" id="class_name1sidebar" value="AdUsedCar" />
+            <label for="class_name1sidebar">Segunda mano</label>
+        </div>
+        <div class="bk-last">
+            <input type="radio" class="btclass" name="class_name" id="class_name2sidebar" value="AdNewCar" />
+            <label for="class_name2sidebar">Coches nuevos</label>
+        </div>
+        <select name="brand" class="btbrands" id="brandssidebar">
+            <option value="">Elige una marca</option>
+        </select>
+        <select name="family" class="btfamilies" id="familiessidebar" disabled>
+            <option value="">Elige un modelo</option>
+        </select>
+        <select name="province" class="btprovinces"  id="provincessidebar">
+            <option value="">Elige una provincia</option>
+        </select>
+        <select name="bodywork" class="btbodyworks"  id="bodyworkssidebar" disabled style="display: none;">
+            <option value="">Selecciona  una carrocería</option>
+        </select>
+        <button type="submit" class="btn-orange">Buscar</button>
+    </form>
+
+
+
+
+                    </div>
+
+                                                                                                            <div class="bk-last-test box-sidebar ma30">
+                            
+
+
+	 	
+	    <h4>Lo más visto</h4>
+	    	    <a href="https://www.autocasion.com/actualidad/pruebas/ford-mustang-match-coche-electrico-suv-fotos-informacion-precio">
+	        <div class="row">
+	            <div class="col-xs-6 col-md-6">
+	            	<img src="https://images1.autocasion.com/unsafe/145x75/actualidad/wp-content/uploads/2020/10/Ford-Mustang-Mach-e-electrico-review.jpg" width="145" height="75" class="img-responsive" alt="VÍDEO| Primera prueba del Ford Mustang Mach-E: eléctrico y deportivo" >	                	            </div>
+	            <div class="col-xs-6 col-md-6">
+	                <p class="overhide">VÍDEO| Primera prueba del Ford Mustang Mach-E: eléctrico y deportivo</p>
+	            </div>
+	        </div>  
+	    </a>
+			    <a href="https://www.autocasion.com/actualidad/pruebas/nuevo-nissan-qashqai-2021-fotos-datos">
+	        <div class="row">
+	            <div class="col-xs-6 col-md-6">
+	            	<img src="https://images1.autocasion.com/unsafe/145x75/actualidad/wp-content/uploads/2020/12/Nissan-Qashqai-2022-1280-07-1.jpg" width="145" height="75" class="img-responsive" alt="Nuevo Nissan Qashqai 2021: así es la tercera generación del rey de los SUVs" >	                	            </div>
+	            <div class="col-xs-6 col-md-6">
+	                <p class="overhide">Nuevo Nissan Qashqai 2021: así es la tercera generación del rey de los SUVs</p>
+	            </div>
+	        </div>  
+	    </a>
+			    <a href="https://www.autocasion.com/actualidad/pruebas/hyundai-bayon-2021-suv-urbano-datos-informacion-imagenes">
+	        <div class="row">
+	            <div class="col-xs-6 col-md-6">
+	            	<img src="https://images1.autocasion.com/unsafe/145x75/actualidad/wp-content/uploads/2021/01/Hyundai-Bayon-2022-1280-02.jpg" width="145" height="75" class="img-responsive" alt="Hyundai Bayon 2021: por fin le hemos conocido" >	                	            </div>
+	            <div class="col-xs-6 col-md-6">
+	                <p class="overhide">Hyundai Bayon 2021: por fin le hemos conocido</p>
+	            </div>
+	        </div>  
+	    </a>
+			    <a href="https://www.autocasion.com/actualidad/reportajes/coche-mitico-renault-4-latas-historia-fotos-datos">
+	        <div class="row">
+	            <div class="col-xs-6 col-md-6">
+	            	<img src="https://images1.autocasion.com/unsafe/145x75/actualidad/wp-content/uploads/2021/02/Coche-mitico-renault-4-latas-5.jpg" width="145" height="75" class="img-responsive" alt="Coches míticos: Renault 4 latas, el coche más generoso" >	                	            </div>
+	            <div class="col-xs-6 col-md-6">
+	                <p class="overhide">Coches míticos: Renault 4 latas, el coche más generoso</p>
+	            </div>
+	        </div>  
+	    </a>
+			    <a href="https://www.autocasion.com/actualidad/pruebas/mercedes-benz-eqa-2021-electrico">
+	        <div class="row">
+	            <div class="col-xs-6 col-md-6">
+	            	<img src="https://images1.autocasion.com/unsafe/145x75/actualidad/wp-content/uploads/2021/01/20C0579_012-1.jpg" width="145" height="75" class="img-responsive" alt="Este es el precio del Mercedes EQA 2021" >	                	            </div>
+	            <div class="col-xs-6 col-md-6">
+	                <p class="overhide">Este es el precio del Mercedes EQA 2021</p>
+	            </div>
+	        </div>  
+	    </a>
+		  
+	
+                        </div>
+                    
+                                        <div id="robapaginas_dos" class="ma30 creatividad" data-pos="robapaginas_dos">
+                        <script type="text/javascript">
+                            googletag.cmd.push(function () {
+                                window.googletag.display("robapaginas_dos");
+                            });
+                        </script>
+                    </div>
+
+                     
+                                        <div id="robapaginas_tres" class="ma30 creatividad" data-pos="robapaginas_tres">
+                        <script type="text/javascript">
+                            googletag.cmd.push(function () {
+                                window.googletag.display("robapaginas_tres");
+                            });
+                        </script>
+                    </div>
+
+                                        <div id="boton_uno" class="ma30 creatividad" data-pos="boton_uno">
+                        <script type="text/javascript">
+                            googletag.cmd.push(function() {
+                                googletag.display("boton_uno");
+                            });
+                        </script>
+                    </div>
+
+                                        <div id="boton_dos" class="ma30 creatividad" data-pos="boton_dos">
+                        <script type="text/javascript">
+                            googletag.cmd.push(function() {
+                                googletag.display("boton_dos");
+                            });
+                        </script>
+                    </div>
+
+                </div>        
+                    
+
+            </aside>
+            <!--END SIDEBAR-->
+
+        </div>    
+        <!--END MAIN+ASIDE-->
+
+        <!-- MIGAS DE PAN MOBILE-->
+        <ol class="breadcrumb visible-xs"><li><a title="Ir a Autocasión." href="https://www.autocasion.com" class=""><span>Autocasión</span></a></li><li><a title="Ir a Actualidad." href="https://www.autocasion.com/actualidad/" class=""><span>Actualidad</span></a></li><li><a title="Ir a Noticias del motor." href="https://www.autocasion.com/actualidad/noticias" class=""><span>Noticias del motor</span></a></li><li><span>Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus)</span></li></ol>        <!-- END MIGAS DE PAN -->
+
+        
+        			<div class="modal fade visualizador" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<div class="container">
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="icon icon-cerrar"></i></button>
+								<a href="#modalCompartir" class="comparte" data-toggle="modal"><i class="iconew-icono_017_compartir"></i></a>
+								<h4 class="modal-title" id="myModalLabel">Estos son los 10 coches más vendidos en lo que va de 2020 (a pesar del coronavirus)</h4>
+																<div id="textlink_actual_visor0" class="textlink-publi0">
+																	</div>
+								<div id="textlink_actual_visor1" class="textlink-publi1">
+																	</div>
+								
+							</div>
+						</div>
+						
+						
+						<div class="modal-body gallery-single">
+							<div class="wrapper">
+								<div class="col-l">
+									<div class="slider-img">
+										<div class="slider-cn"><div class="item">
+													<div class="img-cn">
+														<img class="img-data-src" data-src="https://images1.autocasion.com/unsafe/640x480/actualidad/wp-content/uploads/2020/07/Seat-Leon-2020-1600-02.jpg" width="750" alt="" />
+														<span class="img-number">1/1</span>
+													</div>
+													<p>Seat Le&oacute;n, el m&aacute;s vendido en la primera mitad de 2020</p>
+												</div></div>
+									</div>
+									<div class="slider-mini">
+										<div id="bx-pager-mini"><a href="#" data-slide-index="0">
+													<img class="img-data-src"  data-src="https://images1.autocasion.com/unsafe/96x71/actualidad/wp-content/uploads/2020/07/Seat-Leon-2020-1600-02-150x150.jpg" width="96" alt="">
+												</a></div>
+									</div>
+								</div>
+								<div class="col-r hidden-xs hidden-sm">
+									<div id="roba_visor" data-pos="roba_visor" class="creatividad">
+																			</div>
+								</div>
+							</div>
+						</div>
+						<div class="modal-footer hidden-sm hidden-md hidden-lg">
+							<div class="container">
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="icon icon-cerrar"></i></button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+            <footer class="footer">
+            <div class="container">
+                <ul class="hidden-xs">
+                    <li>
+                        <span>Sobre Autocasión</span>
+                        <a href="/sobre-autocasion">Sobre nosotros</a>
+                        <a href="/contacto-sugerencias">Contacto y sugerencias</a>
+                        <a href="/aviso-legal">Aviso legal</a>
+                        <a href="/politica-privacidad">Política de privacidad</a>
+                        <a href="/politica-cookies">Política de cookies</a>
+                        <a href="/mapa-web">Mapa web</a>
+                    </li>
+                    <li>
+                        <span>Comprar</span>
+                        <a href="/coches-segunda-mano">Coches de segunda mano</a>
+                        <a href="/coches-nuevos">Coches nuevos</a>
+                        <a href="/actualidad">Actualidad sobre coches</a>
+                        <a href="/coches-segunda-mano/particular">Coches de particulares</a>
+                        <a href="/consejos-seguridad#buy">Comprar seguro</a>
+                    </li>
+                    <li>
+                        <span>Vender</span>
+                        <a href="/vender-coche">Anuncia tu coche</a>
+                        <a href="/consejos-seguridad#sell">Vender seguro</a>
+                        <a href="/tasacion-de-coches">Tasa tu coche</a>
+                    </li>
+                    <li>
+                        <span>Síguenos</span>
+                        <a href="https://twitter.com/Autocasion" target="_blank"><span class="icon icon-twitter"></span>Twitter</a>
+                        <a href="https://www.facebook.com/autocasion" target="_blank"><span class="icon icon-facebook"></span>Facebook</a>
+                        <a href="http://www.youtube.com/user/autocasioncom" target="_blank"><span class="icon icon-youtube"></span>YouTube</a>
+                        <a href="https://www.instagram.com/autocasion/?hl=es" target="_blank"><span class="icon moon-instagram"></span>Instagram</a>                        
+                    </li>
+                    <li>
+                        <span>Nuestra App</span>
+                        <a href="https://itunes.apple.com/es/app/autocasion.com/id580457760?mt=8" target="_blank">
+                            <span class="icon icon-ios"></span> Descárgala en IOS
+                        </a>
+                        <a href="https://play.google.com/store/apps/details?id=com.vocento.autocasion&hl=es" target="_blank">
+                            <span class="icon icon-android"></span> Descárgala en Android
+                        </a>
+                    </li>
+                </ul>
+                <div class="panel-group hidden-sm hidden-md hidden-lg">
+                    <div class="panel">
+                        <h2>
+                            <a class="collapsed" data-toggle="collapse" href="#collapsefooter1" aria-expanded="true" aria-controls="collapsefooter1">
+                                Síguenos <span class="icon icon-flecha-arriba"></span>
+                            </a>
+                        </h2>
+                        <div id="collapsefooter1" class="panel-collapse collapse">                            
+                            <a href="https://twitter.com/Autocasion" target="_blank"><span class="icon icon-twitter"></span></a>
+                            <a href="https://www.facebook.com/autocasion" target="_blank"><span class="icon icon-facebook"></span></a>
+                            <a href="http://www.youtube.com/user/autocasioncom" target="_blank"><span class="icon icon-youtube"></span></a>
+                            <a href="https://www.instagram.com/autocasion/?hl=es" target="_blank"><span class="icon moon-instagram"></span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel-group hidden-sm hidden-md hidden-lg">
+                    <div class="panel">
+                        <h2>
+                            <a class="collapsed" data-toggle="collapse" href="#collapsefooter2" aria-expanded="true" aria-controls="collapsefooter2">
+                                Nuestra App <span class="icon icon-flecha-arriba"></span>
+                            </a>
+                        </h2>
+                        <div id="collapsefooter2" class="panel-collapse collapse">
+                            <a href="https://itunes.apple.com/es/app/autocasion.com/id580457760?mt=8" target="_blank">
+                                <span class="icon icon-ios"></span> 
+                            </a>
+                            <a href="https://play.google.com/store/apps/details?id=com.vocento.autocasion&hl=es" target="_blank">
+                                <span class="icon icon-android"></span> 
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel-group hidden-sm hidden-md hidden-lg">
+                    <div class="panel">
+                        <h2>
+                            <a class="collapsed" data-toggle="collapse" href="#collapsefooter3" aria-expanded="true" aria-controls="collapsefooter3">
+                                Sobre Autocasión <span class="icon icon-flecha-arriba"></span>
+                            </a>
+                        </h2>
+                        <div id="collapsefooter3" class="panel-collapse collapse">
+                            <a href="/sobre-autocasion">Sobre nosotros</a>
+                            <a href="/contacto-sugerencias">Contacto</a>
+                            <a href="/aviso-legal">Aviso legal</a>
+                            <a href="/politica-privacidad">Política de privacidad</a>
+                            <a href="/politica-cookies">Política de cookies</a>
+                            <a href="/mapa-web">Mapa web</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel-group hidden-sm hidden-md hidden-lg">
+                    <div class="panel">
+                        <h2>
+                            <a class="collapsed" data-toggle="collapse" href="#collapsefooter4" aria-expanded="true" aria-controls="collapsefooter4">
+                                Comprar <span class="icon icon-flecha-arriba"></span>
+                            </a>
+                        </h2>
+                        <div id="collapsefooter4" class="panel-collapse collapse">
+                            <a href="/coches-segunda-mano">Coches de segunda mano</a>
+                            <a href="/coches-nuevos">Coches nuevos</a>
+                            <a href="/actualidad">Actualidad sobre coches</a>
+                            <a href="/coches-segunda-mano/particular">Coches de particulares</a>
+                            <a href="/consejos-seguridad#buy">Comprar seguro</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel-group hidden-sm hidden-md hidden-lg">
+                    <div class="panel">
+                        <h2>
+                            <a class="collapsed" data-toggle="collapse" href="#collapsefooter5" aria-expanded="true" aria-controls="collapsefooter5">
+                                Medios de vocento <span class="icon icon-flecha-arriba"></span>
+                            </a>
+                        </h2>
+                        <div id="collapsefooter5" class="panel-collapse collapse">
+                                                        <a href="http://www.abc.es/" target="_blank">abc.es</a>
+                            <a href="http://www.finanzas.com/" target="_blank">finanzas.com</a>
+                            <a href="http://www.mujerhoy.com/" target="_blank">mujerhoy.com</a>
+                            <a href="http://www.infoempleo.com/" target="_blank">infoempleo.com</a>
+                            <a href="http://www.avanzaentucarrera.com/" target="_blank">avanzaentucarrera.com</a>
+                            <a href="http://www.pisos.com/" target="_blank">pisos.com</a>
+                            <a href="http://www.motocasion.com/" target="_blank">motocasion.com</a>
+                            <a href="http://www.unoauto.com/" target="_blank">unoauto.com</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel-group hidden-sm hidden-md hidden-lg">
+                    <div class="panel">
+                        <h2>
+                            <a class="collapsed" data-toggle="collapse" href="#collapsefooter6" aria-expanded="true" aria-controls="collapsefooter6">
+                                Vender <span class="icon icon-flecha-arriba"></span>
+                            </a>
+                        </h2>
+                        <div id="collapsefooter6" class="panel-collapse collapse">                             
+                            <a href="/vender-coche">Anuncia tu coche</a>
+                            <a href="/tasacion-de-coches">Tasa tu coche</a>
+                            <a href="/consejos-seguridad#sell">Vender seguro</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="widget-container" class="ekomi-widget-container ekomi-widget-sf1100255ad095e5bccfb"></div>
+                <script type="text/javascript">
+                    function callWidgetsf1100255ad095e5bccfb()
+                    {
+                        (function (w) {
+                            w['_ekomiWidgetsServerUrl'] = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//widgets.ekomi.com';
+                            w['_customerId'] = 110025;
+                            w['_ekomiDraftMode'] = true;
+                            w['_language'] = 'es';
+
+                            if(typeof(w['_ekomiWidgetTokens']) !== 'undefined'){
+                                w['_ekomiWidgetTokens'] = new Array('sf1100255ad095e5bccfb');
+                            } else {
+                                w['_ekomiWidgetTokens'] = new Array('sf1100255ad095e5bccfb');
+                            }
+
+                            if(typeof(ekomiWidgetJs) == 'undefined') {
+                                ekomiWidgetJs = true;
+
+                                                var scr = document.createElement('script');scr.src = 'https://sw-assets.ekomiapps.de/static_resources/widget.js';
+                                var head = document.getElementsByTagName('head')[0];head.appendChild(scr);
+                                            } else {
+                                window['ekomiWidgetMain']();
+                            }
+
+                        })(window);
+                    }
+                    var methodName = 'callWidget' + "sf1100255ad095e5bccfb";
+                    window[methodName]();
+                </script>
+                <div class="vocento">
+                    <img src="https://images1.autocasion.com/actualidad/wp-content/themes/actualidad2019/_/img/logo_vocento.png" alt="Vocento"/></span>
+                    <p class="hidden-xs">
+                                             <a href="https://www.abc.es/" target="_blank">abc.es</a>
+                        <a href="http://www.finanzas.com/" target="_blank">finanzas.com</a>
+                        <a href="https://www.mujerhoy.com/" target="_blank">mujerhoy.com</a>
+                        <a href="https://www.infoempleo.com/" target="_blank">infoempleo.com</a>
+                        <a href="https://www.avanzaentucarrera.com/" target="_blank">avanzaentucarrera.com</a>
+                        <a href="https://www.pisos.com/" target="_blank">pisos.com</a>
+                        <a href="https://www.motocasion.com/" target="_blank">motocasion.com</a>
+                        <a href="https://www.unoauto.com/" target="_blank">unoauto.com</a>
+                    </p>
+                    <p>&copy;2000-2021 Autocasion.com - Todos los derechos reservados.</p>
+                </div>
+            </div>
+            <a class="subir"><span class="icon icon-flecha-arriba"></span></a>
+            
+        </footer>
+        <div class="aviso-navegador hidden">
+            <div class="container">
+                <p>Para que puedas disfrutar de todas las funcionalidades de nuestra nueva web, <a href="/actualizar-navegador">te recomendamos que actualices tu navegador</a></p>
+            </div>
+        </div>
+        <script type='text/javascript' src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js?ver=3.3.4' id='bootstrap-js'></script>
+
+
+
+
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js' id='touchSwipe-js'></script>
+
+
+
+
+    <script>
+        var app = Voonto.getInstance();
+        app.when('cmp:ready').then(function() {
+            if (Didomi.notice.isVisible()) {
+                Didomi.on('notice.hidden', function() {
+                    app.load('//a.teads.tv/page/118511/tag');
+                });
+            } else {
+                app.load('//a.teads.tv/page/118511/tag');
+            }
+        });
+    </script>
+            <script defer src="https://assets-actualidad.autocasion.com/actualidad/wp-content/cache/autoptimize/js/autoptimize_22b0f5360eec266b859a6b141bbd4901.js"></script>
+        
+
+                <script>    
+            var browserDev = (/android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()));
+            var deviceC = '';
+            if (!browserDev == false) {             
+                var deviceC = 'm';              
+            }          
+            
+            //-Comscore
+            var idAppi = 'UA-431099-1';
+                        function sendDataAnalytic(idAppi, pagina_ga) {
+                ga('create', idAppi, 'auto');
+                ga('set', 'page', pagina_ga);
+                ga('send', 'pageview');
+                sendComScore();
+            }
+            function sendComScore(){
+                var ns_site = 'autocasion';
+                var voc_adb = 0;
+                if(typeof isAdBlockActive=='undefined'){
+                    voc_adb = 1;
+                }
+                udm_('http'+(document.location.href.charAt(4)=='s'?'s://sb':'://b')+'.scorecardresearch.com/b?c1=2&c2=7715761&ns_site='+ns_site+'&name=www.autocasion.com/actualidad/noticias/10-coches-mas-vendidos-en-lo-que-va-2020&voc_site='+ns_site+'&voc_se=&voc_s1=&voc_s2=&voc_s3=&voc_s4=&voc_tn=&voc_ho=&voc_tc=&voc_ed=&voc_au=&voc_fep=&voc_fem=&voc_or=&voc_pr=1&voc_pl='+deviceC+'&voc_pu=&voc_ate=&voc_adp=&voc_adb='+voc_adb+'&voc_idi=&voc_usrid=&voc_tusr=&voc_usrag=&voc_usrcp=&voc_usrgen=&voc_usrser=&voc_usrsvs=&voc_pw_pid=&voc_pw_meter=&voc_pw_count=&voc_pw_max=&voc_pw_result=&voc_pw_cookie=&ns_http_status=');
+            }
+                        
+            
+            //--Comments scroll
+            jQuery('.comentlink').on('click', function (e) {
+                
+                e.preventDefault();
+                
+                var hrefC = jQuery(this).data('target');
+                
+                jQuery('html, body').animate({
+                    scrollTop: jQuery(hrefC).offset().top - 100
+                }, 500);
+                
+            });
+            jQuery('a[href="#commentform"]').on('click', function (e) {
+                
+                e.preventDefault();
+                
+                var hrefC = jQuery(this).attr('href');
+                
+                jQuery('html, body').animate({
+                    scrollTop: jQuery(hrefC).offset().top-80
+                }, 500);
+                
+            });
+            
+            
+           
+        </script>
+        
+            
+                                                    
+
+    </body>
+</html>
